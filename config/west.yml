@@ -18,8 +18,5 @@ manifest:
     - name: zmk-input-behavior-listener
       remote: badjeff
       revision: main
-    - name: zmk-lpm009m360a-driver
-      remote: yangxing
-      revision: master
   self:
     path: config
